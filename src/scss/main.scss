@@ -222,3 +222,103 @@ body {
 	padding: 70px 0 112px 0;
 }
 
+.card-item {
+	background: white;
+	border-radius: 7px;
+	position: relative;
+}
+
+.card_h3 {
+	color: #252B42;
+	padding: 50px 0 35px 0;
+}
+
+.card_h5 {
+	color: #737373;
+	padding: 0 100px;
+}
+
+.paragraf_inf {
+	margin-bottom: 106px;
+}
+
+.price {
+	color: #23A6F0;
+	font-weight: 700;
+	font-size: 40px;
+	padding-top: 35px;
+}
+
+.price-dop {
+	color: #8EC2F2;
+	font-size: 16px;
+	font-weight: 700;
+	padding-bottom: 50px;
+}
+
+.button_price {
+	padding: 15px 82px;
+	background: #23A6F0;
+	border-radius: 5px;
+	font-size: 14px;
+	font-weight: 700;
+	color: #FFFFFF;
+	border: none;
+	margin-bottom: 36px;
+}
+
+.list_adv {
+	color: #252B42;
+	font-weight: 600;
+	font-size: 30px;
+}
+
+.price_start_h6 {
+	padding: 27px 40px 18px 110px;
+	text-align: left;
+}
+
+.price_h6 {
+	padding: 0 40px 18px 110px;
+	text-align: left;
+}
+
+.price_end_h6 {
+	padding: 0 120px 50px 110px;
+	text-align: left;
+}
+
+.star_color_price {
+	position: absolute;
+	top: 460px;
+	left: 65px;
+}
+
+.star_color_two_price {
+	position: absolute;
+	top: 507px;
+	left: 65px;
+}
+
+.star_color_three_price {
+	position: absolute;
+	top: 553px;
+	left: 65px;
+}
+
+.star_color_four_price {
+	position: absolute;
+	top: 599px;
+	left: 65px;
+}
+
+.star_color_five_price {
+	position: absolute;
+	top: 645px;
+	left: 65px;
+}
+
+.block_price {
+	display: flex;
+	align-items: center;
+}
